@@ -1,0 +1,169 @@
+*{
+	margin:  0;
+	padding: 0;
+}
+
+
+nav{
+	width: 100%;
+	height: 100px;
+	background-color: cadetblue;
+	line-height: 100%;
+}
+
+
+ul{
+
+}
+
+ul li{
+	display: block;
+list-style: none;
+display: inline-block;
+float: right;
+}
+
+
+ul li a{
+text-decoration: none;
+font-size: 20px;
+font-family: arial;
+color: #1e1e1e;
+padding: 0 20px;
+}
+
+ul li a:hover{
+	color: red;
+}
+
+body{
+	background-color: burlywood;
+}
+
+h1{
+	color: red;
+	font-size: 90px;
+	text-align: center;
+	}
+
+	#click1{
+	color: black;
+	width: 100%;
+	height: 100px;
+	font-size: 60px;
+	line-height: 50%;
+	font-family: 'Bakbak One', cursive;
+	text-align: center;
+
+}
+#click2{
+	color: blue;
+	text-align: right;
+	align-content: right;
+	align-items: right;
+	text-align-last: right;
+	font-size: 30px;
+	background-color: skyblue;
+	font-family: 'Bakbak One', cursive;
+}
+#button1{
+	color: black;
+	width: 100%;
+	height: 100px;
+	font-size: 60px;
+	line-height: 50%;
+	font-family: 'Bakbak One', cursive;
+	text-align: center;
+	background-color: black;
+	color: burlywood;
+}
+
+.title{
+background-color: red;
+	height: 50%;
+	width: 30%;
+	
+	
+}
+.pic1{
+height: 60%;
+	width: 70%;
+	
+}
+.pic2{
+height: 60%;
+	width: 70%;
+	
+}
+.pic3{
+height: 60%;
+	width: 70%;
+	
+}
+.pic4{
+height: 60%;
+	width: 70%;
+	
+}
+.pic5{
+height: 60%;
+	width: 70%;
+	
+}
+
+#p1{
+	color: black;
+	text-align: center;
+	font-size:30px;
+	font-family: 'Bakbak One', cursive;
+	color: burlywood;
+	background-color: black;
+
+}
+#p2{
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Bakbak One', cursive;
+}
+#p3{
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Bakbak One', cursive;
+}
+#p4{
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Bakbak One', cursive;
+}
+#p5{
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Bakbak One', cursive;
+}
+#p6{
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Bakbak One', cursive;
+}
+
+#tit{
+	text-align: center;
+	font-size: 70px;
+	font-family: 'Bakbak One', cursive;
+}
+#p8{
+	text-align: left;
+	font-size: 30px;
+	font-family: 'Bakbak One', cursive;
+}
+#p7{
+	text-align: left;
+	font-size: 40px;
+	font-family: 'Bakbak One', cursive;
+	color: darkred;
+}#p9{
+	text-align: left;
+	font-size: 40px;
+	font-family: 'Bakbak One', cursive;
+	color: darkred;
+}
